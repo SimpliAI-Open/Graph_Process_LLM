@@ -2,7 +2,7 @@
 
 ## 💬 About
 
-This project is the code used for the paper 'Harnessing the Power of Large Language Models for Uncertainty-Aware Graph Processing.' Its purpose is to calculate the uncertainty of the output results of large models under specific tasks, thereby estimating the confidence level of the answers provided by the large models.
+This project is the code used for the paper 'Harnessing the Power of Large Language Models for Uncertainty-Aware Graph Processing.' Its purpose is to calculate the uncertainty of the output results of LLMs under specific tasks, thereby estimating the confidence level of the answers provided by the LLMs.
 
 ## ✨ Introduction to each file
 
@@ -12,7 +12,7 @@ This project is the code used for the paper 'Harnessing the Power of Large Langu
 | finetune,py    | This file is the main code used for training purposes.       |
 | main.py        | This file serves as the entry point for training, which completes the training by calling finetune.py. In this file, you can configure the training parameters. |
 | test.py        | This file can test the cross-entropy of the model under perturbations for specific tasks after training. |
-| uncertainty.py | This document can analyze the output results of the test.py file and output the confidence score. |
+| uncertainty.py | This file can analyze the output results of the test.py file and output the confidence score. |
 
 ## 🎉How to use
 
