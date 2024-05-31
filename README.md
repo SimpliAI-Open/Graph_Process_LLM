@@ -53,7 +53,7 @@ Enter the parameters in uncertainty.py and run it.
 ```
 @article{qian2024harnessing,
   title={Harnessing the Power of Large Language Model for Uncertainty Aware Graph Processing},
-  author={**Qian, Zhenyu** and Qian, Yiming and Song, Yuting and Gao, Fei and Jin, Hai and Yu, Chen and Xie, Xia},
+  author={Qian, Zhenyu and Qian, Yiming and Song, Yuting and Gao, Fei and Jin, Hai and Yu, Chen and Xie, Xia},
   booktitle    = {{LREC/COLING}},
   pages        = {8035--8049},
   publisher    = {{ELRA} and {ICCL}},
