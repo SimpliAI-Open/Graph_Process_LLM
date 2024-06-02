@@ -1,4 +1,4 @@
-# Code for `Harnessing the Power of Large Language Model for Uncertainty Aware Graph Processing`
+# Harnessing the Power of Large Language Model for Uncertainty Aware Graph Processing
 
 ## 💬 About
 
